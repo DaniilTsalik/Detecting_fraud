@@ -1,0 +1,23 @@
+[33mcommit f92429680e1b64b188a3c27cb284e8277b4820bf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Daniil Tsalik <tsalik1234@gmail.com>
+Date:   Thu Dec 22 22:32:37 2022 +1200
+
+    Added RandomizedSearchCV for GBC, score 0.80227
+
+[33mcommit ccf9418ae02b4162f5f9a4904eca4aab95091412[m
+Author: Daniil Tsalik <tsalik1234@gmail.com>
+Date:   Thu Dec 22 21:17:27 2022 +1200
+
+    RFC add RandomSearchCV, accuracy 0.80025
+
+[33mcommit aa7cf79632fac8681b62ea7d87b7a2260fdb8c98[m
+Author: Daniil Tsalik <tsalik1234@gmail.com>
+Date:   Thu Dec 22 17:18:23 2022 +1200
+
+    Firs commit, accuracy 0.82048
+
+[33mcommit 57768609be300d8ef6caf3080fad46bdd38e3709[m
+Author: Daniil Tsalik <tsalik1234@gmail.com>
+Date:   Thu Dec 22 16:46:44 2022 +1200
+
+    Firs commit, accuracy 0.82048
